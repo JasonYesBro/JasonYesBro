@@ -3,7 +3,8 @@
 <div align=center>
   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20&fontSize=70" />
   <h2> 도전을 즐기는 개발자 전승현입니다! 👋</h2>
-<a href="https://velog.io/@jasonyes/" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
+<a href="https://velog.io/@jasonyes/" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
+  <a href="https://iridescent-ground-7ce.notion.site/Java-Spring-82f537e9c3774648a439f45f2d52cc9b" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
 
   <h3>🛠 Tech stack</h3>
 
